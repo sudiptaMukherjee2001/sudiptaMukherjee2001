@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptamukherjee2001&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptamukherjee2001" /> </p>
 
-- 🌱 I’m currently learning **Next.js ,Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **React,Javascript**
 
