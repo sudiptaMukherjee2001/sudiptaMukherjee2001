@@ -3,11 +3,13 @@
 <img align="right" alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptamukherjee2001&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptamukherjee2001" /> </p>
 
-- 🌱 I’m currently learning **nextJS**
+- ☁️ Exploring the world of DevOps, along with various cloud service models and tools.
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **nextJs,React,Javascript**
 
-- 📫 How to reach me **sudiptamukherjee112@gmail.com**
+- 📫 How to reach me **work.sudipta001@gmail.com**
+
+- 🌐 Portfolio **https://sudiptoworks.in/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
